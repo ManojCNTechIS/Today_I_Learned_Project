@@ -2,7 +2,8 @@
 
 [Click Here](https://TodayILearnedProject.manthya20.repl.co) to Use App!!!
 
-<img width="1427" alt="Screenshot 2023-03-27 at 7 37 04 PM" src="https://user-images.githubusercontent.com/103304537/227963807-e9a6726e-7e6f-48d7-92f4-7396c1479520.png">
+![Screenshot 2023-03-28 at 2 40 24 PM](https://user-images.githubusercontent.com/118239734/228188109-21587fb9-04f6-45c9-acad-39ca521ecc03.png)
+
 
 
 # Getting Started with Create React App
